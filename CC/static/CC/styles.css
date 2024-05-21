@@ -1,0 +1,48 @@
+h2 {
+    margin: 1rem 100px;
+    margin-top: 40px;
+  }
+  
+  .container {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .container2 {
+    margin: 1rem 100px;
+  }
+  
+  #navbar-user {
+    margin-left: 100px;
+  }
+  
+  #navbar-logout {
+    margin-right: 100px;
+  }
+  
+  body {
+      font-family: Arial, sans-serif;
+      height: 100vh;
+      
+  }
+  
+  .converter-container {
+      max-width: 1000px;
+      background-color: #fff;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+      margin-bottom: 20px;
+  }
+  
+  .switch-currency-btn {
+      font-size: 20px;
+  }
+  
+  #lastUpdated {
+      text-align: right;
+      color: #808080;
+      }
